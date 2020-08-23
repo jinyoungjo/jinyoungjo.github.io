@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Jinyoung Jo</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 22 Aug 2020 17:43:54 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>LING 102 - Introduction to Applied Phonetics (Winter 2020)</title>
+      <link>/project/ling102/</link>
+      <pubDate>Sat, 22 Aug 2020 17:43:54 -0700</pubDate>
+      <guid>/project/ling102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LING 1 - Introduction to Study of Language (Fall 2019)</title>
+      <link>/project/ling1/</link>
+      <pubDate>Sat, 22 Aug 2020 17:22:45 -0700</pubDate>
+      <guid>/project/ling1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
