@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 22 Aug 2020 17:43:54 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 01 Jan 2021 17:22:45 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>LING 115 - Linguistics and Speech Pathology (Winter 2021)</title>
+      <link>/project/ling115/</link>
+      <pubDate>Fri, 01 Jan 2021 17:22:45 -0700</pubDate>
+      <guid>/project/ling115/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KOREA 1 - Elementary Modern Korean (Fall 2020)</title>
+      <link>/project/korean1/</link>
+      <pubDate>Mon, 28 Sep 2020 13:29:03 -0800</pubDate>
+      <guid>/project/korean1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LING 102 - Introduction to Applied Phonetics (Winter 2020)</title>
       <link>/project/ling102/</link>
-      <pubDate>Sat, 22 Aug 2020 17:43:54 -0700</pubDate>
+      <pubDate>Thu, 02 Jan 2020 17:43:54 -0700</pubDate>
       <guid>/project/ling102/</guid>
       <description></description>
     </item>
@@ -23,7 +39,7 @@
     <item>
       <title>LING 1 - Introduction to Study of Language (Fall 2019)</title>
       <link>/project/ling1/</link>
-      <pubDate>Sat, 22 Aug 2020 17:22:45 -0700</pubDate>
+      <pubDate>Mon, 23 Sep 2019 17:22:45 -0700</pubDate>
       <guid>/project/ling1/</guid>
       <description></description>
     </item>

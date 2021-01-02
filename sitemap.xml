@@ -3,43 +3,143 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-22T17:43:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ling102/</loc>
-    <lastmod>2020-08-22T17:43:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-08-22T17:43:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ling1/</loc>
-    <lastmod>2020-08-22T17:22:45-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-08-22T17:15:39-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
-    <lastmod>2020-08-22T17:15:39-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/eon-suk-ko/</loc>
-    <lastmod>2020-08-22T17:06:33-07:00</lastmod>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/jinyoung-jo/</loc>
-    <lastmod>2020-08-22T17:15:39-07:00</lastmod>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/lsa2021/</loc>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ling115/</loc>
+    <lastmod>2021-01-01T17:22:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2021-01-01T17:22:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/korean1/</loc>
+    <lastmod>2020-09-28T13:29:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/amp2020/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ling102/</loc>
+    <lastmod>2020-01-02T17:43:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/byoung-tak-zhang/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eon-suk-ko/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/10-3389-fpsyg-2020-602623/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kyung-woon-on/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/and-patricia-keating/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/asa2019/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gabriel-teixeira/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jake-aziz/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jennifer-kuo/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joy-wu/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthew-faytak/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/phillip-barnett/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/z.l.-zhou/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ling1/</loc>
+    <lastmod>2019-09-23T17:22:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/lsa2019/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -48,13 +148,8 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-22T17:15:39-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-08-22T17:15:39-07:00</lastmod>
+    <loc>/talk/gwanpojigyo/</loc>
+    <lastmod>2017-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -65,6 +160,11 @@
   <url>
     <loc>/publication/jo-2016/</loc>
     <lastmod>2020-08-22T17:06:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/alak2015/</loc>
+    <lastmod>2015-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -82,10 +182,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
   <url>

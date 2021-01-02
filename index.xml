@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 22 Aug 2020 17:43:54 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
@@ -13,18 +13,74 @@
     </image>
     
     <item>
+      <title>Jo, J. (2021). Loss of productivity in phonological processes: The case of Korean vowel harmony. The Linguistic Society of America 2021 Annual Meeting.</title>
+      <link>/talk/lsa2021/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/lsa2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LING 115 - Linguistics and Speech Pathology (Winter 2021)</title>
+      <link>/project/ling115/</link>
+      <pubDate>Fri, 01 Jan 2021 17:22:45 -0700</pubDate>
+      <guid>/project/ling115/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KOREA 1 - Elementary Modern Korean (Fall 2020)</title>
+      <link>/project/korean1/</link>
+      <pubDate>Mon, 28 Sep 2020 13:29:03 -0800</pubDate>
+      <guid>/project/korean1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J. (2020). Loss of productivity in phonological processes: The case of Korean vowel harmony. Poster presented at the 2020 Annual Meeting on Phonology.</title>
+      <link>/talk/amp2020/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/amp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LING 102 - Introduction to Applied Phonetics (Winter 2020)</title>
       <link>/project/ling102/</link>
-      <pubDate>Sat, 22 Aug 2020 17:43:54 -0700</pubDate>
+      <pubDate>Thu, 02 Jan 2020 17:43:54 -0700</pubDate>
       <guid>/project/ling102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing the Ko Corpus of Korean Mother–Child Interaction</title>
+      <link>/publication/10-3389-fpsyg-2020-602623/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/10-3389-fpsyg-2020-602623/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faytak, M., Aziz, J., Barnett, P., Jo, J., Kuo, J., Teixeira, G., Wu, J., Zhou, Z.L., &amp; Keating, P. (2019). Flap articulation and lowered fourth formant. Acoustical Society of America 178, San Diego, CA.</title>
+      <link>/talk/asa2019/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/asa2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LING 1 - Introduction to Study of Language (Fall 2019)</title>
       <link>/project/ling1/</link>
-      <pubDate>Sat, 22 Aug 2020 17:22:45 -0700</pubDate>
+      <pubDate>Mon, 23 Sep 2019 17:22:45 -0700</pubDate>
       <guid>/project/ling1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J., &amp; Ko, E.-S. (2019). Korean mothers fine-tune the frequency and acoustic saliency of sound symbolic words to their children’s linguistic maturity. Poster presented at the Linguistic Society of America 2019 Annual Meeting, New York, NY.</title>
+      <link>/talk/lsa2019/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/lsa2019/</guid>
       <description></description>
     </item>
     
@@ -33,6 +89,14 @@
       <link>/publication/10-3389-fpsyg-2018-02225/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/10-3389-fpsyg-2018-02225/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J. (2016). Probabilistic OT analysis of realization of /nl/ sequence in Korean. Gwanpojigyo [Gwanak phonology meeting].</title>
+      <link>/talk/gwanpojigyo/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/gwanpojigyo/</guid>
       <description></description>
     </item>
     
@@ -49,6 +113,14 @@
       <link>/publication/jo-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/jo-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J. (2015). The development of as … as construction: a corpus-based study. The Applied Linguistics Association of Korea 2015 International Conference.</title>
+      <link>/talk/alak2015/</link>
+      <pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/alak2015/</guid>
       <description></description>
     </item>
     
