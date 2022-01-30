@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 01 Sep 2021 17:22:45 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>ASIAN 104 - Asian Language Pedagogy (grader; Fall 2021)</title>
+      <link>/project/asian104/</link>
+      <pubDate>Wed, 01 Sep 2021 17:22:45 -0700</pubDate>
+      <guid>/project/asian104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LING 120A - Phonology 1 (Spring 2021)</title>
+      <link>/project/ling120a/</link>
+      <pubDate>Thu, 01 Apr 2021 17:22:45 -0700</pubDate>
+      <guid>/project/ling120a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J. (2021). Loss of productivity in phonological processes: The case of Korean vowel harmony. The Linguistic Society of America 2021 Annual Meeting.</title>
@@ -82,6 +98,24 @@
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/talk/lsa2019/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -5,12 +5,28 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 01 Jan 2021 17:22:45 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 01 Sep 2021 17:22:45 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>ASIAN 104 - Asian Language Pedagogy (grader; Fall 2021)</title>
+      <link>/project/asian104/</link>
+      <pubDate>Wed, 01 Sep 2021 17:22:45 -0700</pubDate>
+      <guid>/project/asian104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LING 120A - Phonology 1 (Spring 2021)</title>
+      <link>/project/ling120a/</link>
+      <pubDate>Thu, 01 Apr 2021 17:22:45 -0700</pubDate>
+      <guid>/project/ling120a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LING 115 - Linguistics and Speech Pathology (Winter 2021)</title>
