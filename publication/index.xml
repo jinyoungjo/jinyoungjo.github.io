@@ -5,12 +5,52 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 29 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Korean vowel harmony has weak phonotactic support and is losing productivity (resubmitted)</title>
+      <link>/publication/vowel_harmony/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/vowel_harmony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (submitted)</title>
+      <link>/publication/tag_repetition/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tag_repetition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verb segmentation in infancy as a predictor of language outcomes in 3-year-olds (in progress)</title>
+      <link>/publication/longitudinal/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/longitudinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of prosodic cues on restrictive vs. non-restrictive interpretations of relative clauses in Korean (in progress)</title>
+      <link>/publication/nrrc/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nrrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript.</title>
+      <link>/publication/balinese/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/balinese/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introducing the Ko Corpus of Korean Mother–Child Interaction</title>

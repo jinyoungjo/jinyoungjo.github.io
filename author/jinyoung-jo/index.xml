@@ -5,7 +5,7 @@
     <link>/author/jinyoung-jo/</link>
       <atom:link href="/author/jinyoung-jo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
@@ -13,7 +13,23 @@
     </image>
     
     <item>
-      <title>Jo, J. (2022). Inter-speaker variation in the realization of stem-final coronal obstruents in Korean: Poster to be presented at the 2022 Annual Meeting on Phonology</title>
+      <title>Breiss, C., &amp; Jo, J. (2023). Opacity, variation, and breakdown in Korean verbal morphophonology. Talk to be presented at the Linguistic Society of America 2023 Annual Meeting.</title>
+      <link>/talk/lsa2023/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/lsa2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korean vowel harmony has weak phonotactic support and is losing productivity (resubmitted)</title>
+      <link>/publication/vowel_harmony/</link>
+      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/vowel_harmony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J. (2022). Inter-speaker variation in the realization of stem-final coronal obstruents in Korean: Poster presented at the 2022 Annual Meeting on Phonology</title>
       <link>/talk/amp2022/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/talk/amp2022/</guid>
