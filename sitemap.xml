@@ -28,32 +28,27 @@
   </url>
   
   <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/vowel_harmony/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/amp2022/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/eon-suk-ko-jinyoung-jo-jun-ho-chai/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,6 +258,10 @@
   
   <url>
     <loc>/author/jinyoung-jo/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/jo-2023_phonology/</loc>
   </url>
   
   <url>
