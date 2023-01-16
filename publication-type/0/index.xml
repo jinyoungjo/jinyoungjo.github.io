@@ -5,7 +5,7 @@
     <link>/publication-type/0/</link>
       <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (submitted)</title>
+      <title>Korean vowel harmony has weak phonotactic support and is losing productivity (accepted)</title>
+      <link>/publication/jo-2023_phonology/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jo-2023_phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (in revision)</title>
       <link>/publication/tag_repetition/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/tag_repetition/</guid>
@@ -41,14 +49,6 @@
       <link>/publication/balinese/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/balinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korean vowel harmony has weak phonotactic support and is losing productivity (accepted)</title>
-      <link>/publication/jo-2023_phonology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/jo-2023_phonology/</guid>
       <description></description>
     </item>
     
