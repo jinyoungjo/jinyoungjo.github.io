@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2023-01-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -50,6 +50,11 @@
   <url>
     <loc>/talk/amp2022/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -150,11 +155,6 @@
   <url>
     <loc>/project/ling102/</loc>
     <lastmod>2020-01-02T17:43:54-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-01-02T14:17:13-08:00</lastmod>
   </url>
   
   <url>
