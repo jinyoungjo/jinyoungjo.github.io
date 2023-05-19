@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Jo, J., &amp; Choi, S. (2023). Analysis of plagiarism via ChatGPT on domain-specific exams. Talk to be presented at the 19th International Conference on Frontiers in Education: Computer Science and Computer Engineering, July 2023.</title>
+      <link>/talk/fecs2023/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/fecs2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J. (2023). Tutorial on the use of CHILDES using CLAN and childesr. Talk presented at the Chosun University Center for Data Science in Humanities 2023 Spring Tutorial Series, May 2023.</title>
+      <link>/talk/chosununivtutorial/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/chosununivtutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)</title>
@@ -37,7 +53,7 @@
     </item>
     
     <item>
-      <title>Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (in revision)</title>
+      <title>Word-order adaptation and lexical repetition in Korean child-directed speech: Implications for infants’ learning nouns in a verb-dominant language (resubmitted)</title>
       <link>/publication/tag_repetition/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/tag_repetition/</guid>
@@ -158,9 +174,9 @@
     
     <item>
       <title>Introducing the Ko Corpus of Korean Mother–Child Interaction</title>
-      <link>/publication/10-3389-fpsyg-2020-602623/</link>
+      <link>/publication/ko_et_al_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/10-3389-fpsyg-2020-602623/</guid>
+      <guid>/publication/ko_et_al_2020/</guid>
       <description></description>
     </item>
     
@@ -198,9 +214,9 @@
     
     <item>
       <title>Korean Mothers Attune the Frequency and Acoustic Saliency of Sound Symbolic Words to the Linguistic Maturity of Their Children</title>
-      <link>/publication/10-3389-fpsyg-2018-02225/</link>
+      <link>/publication/jo_ko_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/10-3389-fpsyg-2018-02225/</guid>
+      <guid>/publication/jo_ko_2018/</guid>
       <description></description>
     </item>
     
