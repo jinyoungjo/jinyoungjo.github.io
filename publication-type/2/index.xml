@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)</title>
       <link>/publication/jo-2023_phonology/</link>
-      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/jo-2023_phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of plagiarism via ChatGPT on domain-specific exams. (accepted)</title>
+      <link>/publication/jo_choi_2023/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_choi_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMORPHON–UniMorph 2022 Shared Task 0: Cognitively Plausible Morphophonological Generalization in Koreanf</title>
+      <link>/publication/breiss_jo_sigmorphon2023/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/breiss_jo_sigmorphon2023/</guid>
       <description></description>
     </item>
     

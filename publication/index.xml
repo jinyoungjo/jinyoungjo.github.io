@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)</title>
       <link>/publication/jo-2023_phonology/</link>
-      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/jo-2023_phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of plagiarism via ChatGPT on domain-specific exams. (accepted)</title>
+      <link>/publication/jo_choi_2023/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_choi_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMORPHON–UniMorph 2022 Shared Task 0: Cognitively Plausible Morphophonological Generalization in Koreanf</title>
+      <link>/publication/breiss_jo_sigmorphon2023/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/breiss_jo_sigmorphon2023/</guid>
       <description></description>
     </item>
     
@@ -29,7 +45,7 @@
     </item>
     
     <item>
-      <title>Verb segmentation in infancy as a predictor of language outcomes in 3-year-olds (in progress)</title>
+      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (in progress)</title>
       <link>/publication/longitudinal/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/longitudinal/</guid>
@@ -45,7 +61,7 @@
     </item>
     
     <item>
-      <title>Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript.</title>
+      <title>Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript</title>
       <link>/publication/balinese/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/balinese/</guid>
