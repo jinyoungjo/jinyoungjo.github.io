@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (submitted)</title>
+      <link>/publication/longitudinal/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/longitudinal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J., &amp; Choi, S. (2023). Analysis of plagiarism via ChatGPT on domain-specific exams. Talk presented at the 19th International Conference on Frontiers in Education: Computer Science and Computer Engineering, July 2023.</title>
@@ -73,14 +81,6 @@
       <link>/publication/tag_repetition/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/tag_repetition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (submitted)</title>
-      <link>/publication/longitudinal/</link>
-      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/longitudinal/</guid>
       <description></description>
     </item>
     
