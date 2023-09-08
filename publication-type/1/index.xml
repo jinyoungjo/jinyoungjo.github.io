@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jinyoung Jo</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of plagiarism via ChatGPT on domain-specific exams. (accepted)</title>
+      <link>/publication/jo_choi_2023/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_choi_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMORPHON–UniMorph 2023 Shared Task 0, Part 2: Cognitively Plausible Morphophonological Generalization in Korean</title>
+      <link>/publication/breiss_jo_sigmorphon2023/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/breiss_jo_sigmorphon2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
