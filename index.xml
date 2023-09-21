@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Jo, J. (accepted). Individual differences in the pronunciation of Korean stem-final obstruents and their relationship to cognitive traits. Poster (talk alternate) to be presented at the Linguistic Society of America 2024 Annual Meeting.</title>
+      <link>/talk/lsa2024_obs-final/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/lsa2024_obs-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo, J.*, Cho, J.*, &amp; Kim, S.* (accepted). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk to be presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = co-first authors)</title>
+      <link>/talk/lsa2024_nrc_rrc/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/lsa2024_nrc_rrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (submitted)</title>
       <link>/publication/longitudinal/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/publication/longitudinal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of language samples collected remotely from 3-year-olds (in progress)</title>
+      <link>/publication/jo_sundara_languagesample/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
     
@@ -77,7 +101,7 @@
     </item>
     
     <item>
-      <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (submitted)</title>
+      <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)</title>
       <link>/publication/tag_repetition/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/tag_repetition/</guid>

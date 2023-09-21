@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanghee Kim | Jinyoung Jo</title>
+    <link>/author/sanghee-kim/</link>
+      <atom:link href="/author/sanghee-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanghee Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
+      <title>Sanghee Kim</title>
+      <link>/author/sanghee-kim/</link>
+    </image>
+    
+    <item>
+      <title>Jo, J.*, Cho, J.*, &amp; Kim, S.* (accepted). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk to be presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = co-first authors)</title>
+      <link>/talk/lsa2024_nrc_rrc/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/lsa2024_nrc_rrc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
