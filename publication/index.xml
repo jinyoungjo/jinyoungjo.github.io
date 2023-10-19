@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Leveraging linguistic signals to improve machine learning models for detecting ChatGPT usage on exams (in progress)</title>
+      <link>/publication/choi_jo_2023/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/choi_jo_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (submitted)</title>
@@ -57,14 +65,6 @@
       <link>/publication/tag_repetition/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/tag_repetition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effect of prosodic cues on restrictive vs. non-restrictive interpretations of relative clauses in Korean (in progress)</title>
-      <link>/publication/nrrc/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/nrrc/</guid>
       <description></description>
     </item>
     
