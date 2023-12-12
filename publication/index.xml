@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Leveraging linguistic signals to improve machine learning models for detecting ChatGPT usage on exams (submitted; invited to be submitted as a book chapter)</title>
+      <title>Remote collection of language samples from 3-year-olds (submitted)</title>
+      <link>/publication/jo_sundara_languagesample/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_sundara_languagesample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams (accepted)</title>
       <link>/publication/choi_jo_2023/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       <guid>/publication/choi_jo_2023/</guid>
@@ -25,14 +33,6 @@
       <link>/publication/longitudinal/</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/publication/longitudinal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Properties of language samples collected remotely from 3-year-olds (in progress)</title>
-      <link>/publication/jo_sundara_languagesample/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
     
