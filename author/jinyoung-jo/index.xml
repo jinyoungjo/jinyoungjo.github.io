@@ -5,12 +5,28 @@
     <link>/author/jinyoung-jo/</link>
       <atom:link href="/author/jinyoung-jo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/author/jinyoung-jo/</link>
     </image>
+    
+    <item>
+      <title>Jo, J., &amp; Sundara, M. (2024). Remote collection of language samples from 3-year-olds. Talk presented at Chosun Center for Data Science in Humanities Annual Workshop, June 2024.</title>
+      <link>/talk/chosununivworkshop_2024/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/chosununivworkshop_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = co-first authors)</title>
+      <link>/publication/jo_cho_kim_jun_lsa/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_cho_kim_jun_lsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J. (2024). Sources of individual differences in the pronunciation of Korean stem-final coronal obstruents. Poster presented at the Linguistic Society of America 2024 Annual Meeting.</title>
@@ -61,7 +77,7 @@
     </item>
     
     <item>
-      <title>Analysis of plagiarism via ChatGPT on domain-specific exams. (accepted)</title>
+      <title>Analysis of plagiarism via ChatGPT on domain-specific exams.</title>
       <link>/publication/jo_choi_2023/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/jo_choi_2023/</guid>

@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = co-first authors)</title>
+      <link>/publication/jo_cho_kim_jun_lsa/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_cho_kim_jun_lsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Remote collection of language samples from 3-year-olds (in revision)</title>
@@ -45,7 +53,7 @@
     </item>
     
     <item>
-      <title>Analysis of plagiarism via ChatGPT on domain-specific exams. (accepted)</title>
+      <title>Analysis of plagiarism via ChatGPT on domain-specific exams.</title>
       <link>/publication/jo_choi_2023/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/jo_choi_2023/</guid>
