@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)</title>
+      <link>/publication/jo-2023_phonology/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo-2023_phonology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams (accepted)</title>
+      <link>/publication/choi_jo_2023/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/choi_jo_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J., &amp; Sundara, M. (2024). Remote collection of language samples from 3-year-olds. Talk presented at Chosun Center for Data Science in Humanities Annual Workshop, June 2024.</title>
@@ -69,14 +85,6 @@
     </item>
     
     <item>
-      <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams (accepted)</title>
-      <link>/publication/choi_jo_2023/</link>
-      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/choi_jo_2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SLHS 300 - Communicative and Cognitive Development Across the Lifespan (Lecturer at California State University, East Bay; Spring 2024)</title>
       <link>/project/csueb_slhs300/</link>
       <pubDate>Mon, 02 Oct 2023 17:22:45 -0700</pubDate>
@@ -101,15 +109,7 @@
     </item>
     
     <item>
-      <title>Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)</title>
-      <link>/publication/jo-2023_phonology/</link>
-      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/jo-2023_phonology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of plagiarism via ChatGPT on domain-specific exams.</title>
+      <title>Analysis of plagiarism via ChatGPT on domain-specific exams</title>
       <link>/publication/jo_choi_2023/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/jo_choi_2023/</guid>
