@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Korean vowel harmony has weak phonotactic support and has limited productivity (accepted)</title>
-      <link>/publication/jo-2023_phonology/</link>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/jo-2023_phonology/</guid>
+      <title>Remote collection of language samples from 3-year-olds (accepted)</title>
+      <link>/publication/jo_sundara_languagesample/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams</title>
-      <link>/publication/choi_jo_2023/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/choi_jo_2023/</guid>
+      <title>Korean vowel harmony has weak phonotactic support and has limited productivity</title>
+      <link>/publication/jo-2023_phonology/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo-2023_phonology/</guid>
       <description></description>
     </item>
     
@@ -33,6 +33,14 @@
       <link>/talk/chosununivworkshop_2024/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/talk/chosununivworkshop_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams</title>
+      <link>/publication/choi_jo_2023/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/choi_jo_2023/</guid>
       <description></description>
     </item>
     
@@ -57,14 +65,6 @@
       <link>/talk/lsa2024_nrc_rrc/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/talk/lsa2024_nrc_rrc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Remote collection of language samples from 3-year-olds (resubmitted)</title>
-      <link>/publication/jo_sundara_languagesample/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
     
