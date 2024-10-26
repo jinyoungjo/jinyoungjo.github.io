@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (accepted)</title>
+      <link>/publication/jo_sundara_breiss/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_sundara_breiss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Remote collection of language samples from 3-year-olds (accepted)</title>
@@ -89,14 +97,6 @@
       <link>/project/csueb_slhs300/</link>
       <pubDate>Mon, 02 Oct 2023 17:22:45 -0700</pubDate>
       <guid>/project/csueb_slhs300/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy (resubmitted)</title>
-      <link>/publication/jo_sundara_breiss/</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/jo_sundara_breiss/</guid>
       <description></description>
     </item>
     
