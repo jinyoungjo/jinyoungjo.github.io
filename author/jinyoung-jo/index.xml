@@ -5,12 +5,20 @@
     <link>/author/jinyoung-jo/</link>
       <atom:link href="/author/jinyoung-jo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
       <link>/author/jinyoung-jo/</link>
     </image>
+    
+    <item>
+      <title>Jo, J. (2024). Individual differences in phonology: the realization of stem-final coronal obstruents in Korean. Invited talk at the Phonology-Morphology Circle of Korea, November 2024.</title>
+      <link>/talk/morphology_phonology_circle/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/morphology_phonology_circle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity</title>

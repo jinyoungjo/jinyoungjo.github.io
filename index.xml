@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
       <title>Jinyoung Jo</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy</title>
-      <link>/publication/jo_sundara_breiss/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/jo_sundara_breiss/</guid>
+      <title>Remote collection of language samples from 3-year-olds (accepted)</title>
+      <link>/publication/jo_sundara_languagesample/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Remote collection of language samples from 3-year-olds (accepted)</title>
-      <link>/publication/jo_sundara_languagesample/</link>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/jo_sundara_languagesample/</guid>
+      <title>Jo, J. (2024). Individual differences in phonology: the realization of stem-final coronal obstruents in Korean. Invited talk at the Phonology-Morphology Circle of Korea, November 2024.</title>
+      <link>/talk/morphology_phonology_circle/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/morphology_phonology_circle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy</title>
+      <link>/publication/jo_sundara_breiss/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_sundara_breiss/</guid>
       <description></description>
     </item>
     
