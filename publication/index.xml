@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Jinyoung Jo</title>
+    <title>Publications on Jinyoung Jo</title>
     <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
-    </image>
-    
+    <description>Recent content in Publications on Jinyoung Jo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 jinyoungjo.com</copyright>
+    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Remote collection of language samples from 3-year-olds (accepted)</title>
+      <title>Remote collection of language samples from 3-year-olds</title>
       <link>/publication/jo_sundara_languagesample/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy</title>
       <link>/publication/jo_sundara_breiss/</link>
@@ -27,7 +23,6 @@
       <guid>/publication/jo_sundara_breiss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity</title>
       <link>/publication/jo-2023_phonology/</link>
@@ -35,15 +30,13 @@
       <guid>/publication/jo-2023_phonology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams</title>
       <link>/publication/choi_jo_2024/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       <guid>/publication/choi_jo_2024/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = co-first authors)</title>
       <link>/publication/jo_cho_kim_jun_lsa/</link>
@@ -51,7 +44,6 @@
       <guid>/publication/jo_cho_kim_jun_lsa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Analysis of plagiarism via ChatGPT on domain-specific exams</title>
       <link>/publication/jo_choi_2023/</link>
@@ -59,7 +51,6 @@
       <guid>/publication/jo_choi_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SIGMORPHON–UniMorph 2023 Shared Task 0, Part 2: Cognitively Plausible Morphophonological Generalization in Korean</title>
       <link>/publication/breiss_jo_sigmorphon2023/</link>
@@ -67,7 +58,6 @@
       <guid>/publication/breiss_jo_sigmorphon2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)</title>
       <link>/publication/tag_repetition/</link>
@@ -75,62 +65,54 @@
       <guid>/publication/tag_repetition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript</title>
       <link>/publication/balinese/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Dec 1969 16:33:40 -0800</pubDate>
       <guid>/publication/balinese/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Loss of productivity in phonological processes: The case of Korean vowel harmony. Unpublished MA thesis</title>
       <link>/publication/jo-2020_ma/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Dec 1969 16:33:40 -0800</pubDate>
       <guid>/publication/jo-2020_ma/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introducing the Ko Corpus of Korean Mother–Child Interaction</title>
       <link>/publication/ko_et_al_2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Jan 2021 22:17:13 +0000</pubDate>
       <guid>/publication/ko_et_al_2020/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Korean Mothers Attune the Frequency and Acoustic Saliency of Sound Symbolic Words to the Linguistic Maturity of Their Children</title>
       <link>/publication/jo_ko_2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2020 00:15:17 +0000</pubDate>
       <guid>/publication/jo_ko_2018/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Learning bias of phonological alternation in children learning English</title>
       <link>/publication/jo-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2020 00:15:39 +0000</pubDate>
       <guid>/publication/jo-2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Native and non-native English speakers&#39; production of voiceless stops: Effects of lexical stress and prosodic domain on VOT. English Studies</title>
       <link>/publication/jo-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2020 00:15:18 +0000</pubDate>
       <guid>/publication/jo-2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Native and non-native speakers&#39; perception of fluency in L2 speech</title>
       <link>/publication/jo-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2020 00:15:18 +0000</pubDate>
       <guid>/publication/jo-2015/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Jinyoung Jo</title>
+    <title>Tags on Jinyoung Jo</title>
     <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright>
-    <image>
-      <url>/images/icon_hu137d4334c3f61c75974eb9269ea387b1_291533_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>/tags/</link>
-    </image>
-    
+    <description>Recent content in Tags on Jinyoung Jo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 jinyoungjo.com</copyright>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
