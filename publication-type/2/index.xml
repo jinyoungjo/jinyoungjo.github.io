@@ -1,62 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Jinyoung Jo</title>
-    <link>/publication-type/2/</link>
-    <description>Recent content in 2 on Jinyoung Jo</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 jinyoungjo.com</copyright>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Jinyoung Jo</title>
+    <link>//localhost:1313/publication-type/2/</link>
+      <atom:link href="//localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
+      <title>2</title>
+      <link>//localhost:1313/publication-type/2/</link>
+    </image>
+    
     <item>
       <title>Remote collection of language samples from 3-year-olds</title>
-      <link>/publication/jo_sundara_languagesample/</link>
+      <link>//localhost:1313/publication/jo_sundara_languagesample/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/jo_sundara_languagesample/</guid>
+      <guid>//localhost:1313/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity</title>
-      <link>/publication/jo-2023_phonology/</link>
+      <link>//localhost:1313/publication/jo-2023_phonology/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/jo-2023_phonology/</guid>
+      <guid>//localhost:1313/publication/jo-2023_phonology/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Introducing the Ko Corpus of Korean Mother–Child Interaction</title>
-      <link>/publication/ko_et_al_2020/</link>
-      <pubDate>Sat, 02 Jan 2021 22:17:13 +0000</pubDate>
-      <guid>/publication/ko_et_al_2020/</guid>
+      <link>//localhost:1313/publication/ko_et_al_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/ko_et_al_2020/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Korean Mothers Attune the Frequency and Acoustic Saliency of Sound Symbolic Words to the Linguistic Maturity of Their Children</title>
-      <link>/publication/jo_ko_2018/</link>
-      <pubDate>Sun, 23 Aug 2020 00:15:17 +0000</pubDate>
-      <guid>/publication/jo_ko_2018/</guid>
+      <link>//localhost:1313/publication/jo_ko_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jo_ko_2018/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Learning bias of phonological alternation in children learning English</title>
-      <link>/publication/jo-2017/</link>
-      <pubDate>Sun, 23 Aug 2020 00:15:39 +0000</pubDate>
-      <guid>/publication/jo-2017/</guid>
+      <link>//localhost:1313/publication/jo-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jo-2017/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Native and non-native English speakers&#39; production of voiceless stops: Effects of lexical stress and prosodic domain on VOT. English Studies</title>
-      <link>/publication/jo-2016/</link>
-      <pubDate>Sun, 23 Aug 2020 00:15:18 +0000</pubDate>
-      <guid>/publication/jo-2016/</guid>
+      <link>//localhost:1313/publication/jo-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jo-2016/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Native and non-native speakers&#39; perception of fluency in L2 speech</title>
-      <link>/publication/jo-2015/</link>
-      <pubDate>Sun, 23 Aug 2020 00:15:18 +0000</pubDate>
-      <guid>/publication/jo-2015/</guid>
+      <link>//localhost:1313/publication/jo-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/jo-2015/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>

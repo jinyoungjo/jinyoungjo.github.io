@@ -1,41 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Jinyoung Jo</title>
-    <link>/publication_types/</link>
-    <description>Recent content in Publication_types on Jinyoung Jo</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2020 jinyoungjo.com</copyright>
-    <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2</title>
-      <link>/publication-type/2/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication-type/2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>0</title>
-      <link>/publication-type/0/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication-type/0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>6</title>
-      <link>/publication-type/6/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/publication-type/6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1</title>
-      <link>/publication-type/1/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/publication-type/1/</guid>
-      <description></description>
-    </item>
+    <title>Publication_types | Jinyoung Jo</title>
+    <link>//localhost:1313/publication_types/</link>
+      <atom:link href="//localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
+      <title>Publication_types</title>
+      <link>//localhost:1313/publication_types/</link>
+    </image>
+    
   </channel>
 </rss>
