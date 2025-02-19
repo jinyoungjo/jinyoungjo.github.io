@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Jinyoung Jo</title>
-    <link>//localhost:1313/publication-type/1/</link>
-      <atom:link href="//localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
+      <url>/images/icon_hu6439480746502913441.png</url>
       <title>1</title>
-      <link>//localhost:1313/publication-type/1/</link>
+      <link>/publication-type/1/</link>
     </image>
     
     <item>
       <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = co-first authors)</title>
-      <link>//localhost:1313/publication/jo_cho_kim_jun_lsa/</link>
+      <link>/publication/jo_cho_kim_jun_lsa/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_cho_kim_jun_lsa/</guid>
+      <guid>/publication/jo_cho_kim_jun_lsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of plagiarism via ChatGPT on domain-specific exams</title>
-      <link>//localhost:1313/publication/jo_choi_2023/</link>
+      <link>/publication/jo_choi_2023/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_choi_2023/</guid>
+      <guid>/publication/jo_choi_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGMORPHON–UniMorph 2023 Shared Task 0, Part 2: Cognitively Plausible Morphophonological Generalization in Korean</title>
-      <link>//localhost:1313/publication/breiss_jo_sigmorphon2023/</link>
+      <link>/publication/breiss_jo_sigmorphon2023/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/breiss_jo_sigmorphon2023/</guid>
+      <guid>/publication/breiss_jo_sigmorphon2023/</guid>
       <description></description>
     </item>
     
