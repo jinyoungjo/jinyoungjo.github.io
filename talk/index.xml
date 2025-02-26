@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6439480746502913441.png</url>
       <title>Presentations</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., &amp; Jo, J. (2025). Exploring phonological rule application in code-switching among Spanish-English bilinguals. Poster to be presented at the Phonetics and Phonology in Europe 2025.</title>
+      <link>/talk/pape2025/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/pape2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J. (2024). Individual differences in phonology: the realization of stem-final coronal obstruents in Korean. Invited talk at the Phonology-Morphology Circle of Korea, November 2024.</title>

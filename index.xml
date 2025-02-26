@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6439480746502913441.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Katsuda, H., Repiso-Puigdelliura, G., Zuraw, K., &amp; Jo, J. (2025). Exploring phonological rule application in code-switching among Spanish-English bilinguals. Poster to be presented at the Phonetics and Phonology in Europe 2025.</title>
+      <link>/talk/pape2025/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/pape2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Large Language Models exhibit limited reasoning ability on coding problems (submitted)</title>
