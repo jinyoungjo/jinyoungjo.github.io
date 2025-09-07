@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Jinyoung Jo</title>
-    <link>//localhost:1313/publication-type/0/</link>
-      <atom:link href="//localhost:1313/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
+      <url>/images/icon_hu6439480746502913441.png</url>
       <title>0</title>
-      <link>//localhost:1313/publication-type/0/</link>
+      <link>/publication-type/0/</link>
     </image>
     
     <item>
-      <title>Large Language Models exhibit limited reasoning ability on coding problems (submitted)</title>
-      <link>//localhost:1313/publication/llm_reasoning/</link>
-      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/llm_reasoning/</guid>
+      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)</title>
+      <link>/publication/jo-individual_differences_reliable/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/jo-individual_differences_reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Language Models exhibit limited reasoning ability on coding questions (submitted)</title>
+      <link>/publication/llm_reasoning/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/llm_reasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)</title>
-      <link>//localhost:1313/publication/tag_repetition/</link>
+      <link>/publication/tag_repetition/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/tag_repetition/</guid>
+      <guid>/publication/tag_repetition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual differences in phonology: the realization of stem-final coronal obstruents in Korean [Doctoral dissertation]. University of California, Los Angeles.</title>
-      <link>//localhost:1313/publication/jo-2024_dissertation/</link>
+      <link>/publication/jo-2024_dissertation/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2024_dissertation/</guid>
+      <guid>/publication/jo-2024_dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript</title>
-      <link>//localhost:1313/publication/balinese/</link>
+      <link>/publication/balinese/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/balinese/</guid>
+      <guid>/publication/balinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loss of productivity in phonological processes: The case of Korean vowel harmony. Unpublished master&#39;s thesis</title>
-      <link>//localhost:1313/publication/jo-2020_ma/</link>
+      <link>/publication/jo-2020_ma/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2020_ma/</guid>
+      <guid>/publication/jo-2020_ma/</guid>
       <description></description>
     </item>
     
