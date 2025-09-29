@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Jinyoung Jo</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/project/</link>
+      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 20 Oct 2023 17:22:45 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu6439480746502913441.png</url>
+      <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
       <title>Teaching</title>
-      <link>/project/</link>
+      <link>//localhost:1313/project/</link>
     </image>
     
     <item>
       <title>SLHS 508 - Lifespan Development and Child Language Disorders (Lecturer at California State University, East Bay; Spring 2024)</title>
-      <link>/project/csueb_slhs508/</link>
+      <link>//localhost:1313/project/csueb_slhs508/</link>
       <pubDate>Fri, 20 Oct 2023 17:22:45 -0700</pubDate>
-      <guid>/project/csueb_slhs508/</guid>
+      <guid>//localhost:1313/project/csueb_slhs508/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLHS 300 - Communicative and Cognitive Development Across the Lifespan (Lecturer at California State University, East Bay; Spring 2024)</title>
-      <link>/project/csueb_slhs300/</link>
+      <link>//localhost:1313/project/csueb_slhs300/</link>
       <pubDate>Mon, 02 Oct 2023 17:22:45 -0700</pubDate>
-      <guid>/project/csueb_slhs300/</guid>
+      <guid>//localhost:1313/project/csueb_slhs300/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENG 620 - Introduction to Computational Linguistics (Lecturer at San Francisco State University; Fall 2022)</title>
-      <link>/project/sfsu_eng620/</link>
+      <link>//localhost:1313/project/sfsu_eng620/</link>
       <pubDate>Thu, 01 Sep 2022 17:22:45 -0700</pubDate>
-      <guid>/project/sfsu_eng620/</guid>
+      <guid>//localhost:1313/project/sfsu_eng620/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASIAN 104 - Asian Language Pedagogy (grader at UCLA; Fall 2021)</title>
-      <link>/project/asian104/</link>
+      <link>//localhost:1313/project/asian104/</link>
       <pubDate>Wed, 01 Sep 2021 17:22:45 -0700</pubDate>
-      <guid>/project/asian104/</guid>
+      <guid>//localhost:1313/project/asian104/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LING 120A - Phonology 1 (TA at UCLA; Spring 2021)</title>
-      <link>/project/ling120a/</link>
+      <link>//localhost:1313/project/ling120a/</link>
       <pubDate>Thu, 01 Apr 2021 17:22:45 -0700</pubDate>
-      <guid>/project/ling120a/</guid>
+      <guid>//localhost:1313/project/ling120a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LING 115 - Linguistics and Speech Pathology (TA at UCLA; Winter 2021, Spring 2024)</title>
-      <link>/project/ling115/</link>
+      <link>//localhost:1313/project/ling115/</link>
       <pubDate>Fri, 01 Jan 2021 17:22:45 -0700</pubDate>
-      <guid>/project/ling115/</guid>
+      <guid>//localhost:1313/project/ling115/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KOREA 1 - Elementary Modern Korean (TA at UCLA; Fall 2020)</title>
-      <link>/project/korean1/</link>
+      <link>//localhost:1313/project/korean1/</link>
       <pubDate>Mon, 28 Sep 2020 13:29:03 -0800</pubDate>
-      <guid>/project/korean1/</guid>
+      <guid>//localhost:1313/project/korean1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LING 102 - Introduction to Applied Phonetics (TA at UCLA; Winter 2020)</title>
-      <link>/project/ling102/</link>
+      <link>//localhost:1313/project/ling102/</link>
       <pubDate>Thu, 02 Jan 2020 17:43:54 -0700</pubDate>
-      <guid>/project/ling102/</guid>
+      <guid>//localhost:1313/project/ling102/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LING 1 - Introduction to Study of Language (TA at UCLA; Fall 2019, Fall 2023)</title>
-      <link>/project/ling1/</link>
+      <link>//localhost:1313/project/ling1/</link>
       <pubDate>Mon, 23 Sep 2019 17:22:45 -0700</pubDate>
-      <guid>/project/ling1/</guid>
+      <guid>//localhost:1313/project/ling1/</guid>
       <description></description>
     </item>
     
