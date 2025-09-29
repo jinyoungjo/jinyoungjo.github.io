@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6439480746502913441.png</url>
       <title>Publications</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)</title>
       <link>/publication/jo-individual_differences_reliable/</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/publication/jo-individual_differences_reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clip-low increases entropy and clip-high decreases entropy in reinforcement learning of large language models (submitted)</title>
+      <link>/publication/park_iclr2026/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/park_iclr2026/</guid>
       <description></description>
     </item>
     
