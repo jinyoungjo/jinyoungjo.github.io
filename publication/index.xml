@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jinyoung Jo</title>
-    <link>//localhost:1313/publication/</link>
-      <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
+      <url>/images/icon_hu6439480746502913441.png</url>
       <title>Publications</title>
-      <link>//localhost:1313/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Large Language Models exhibit limited reasoning ability on coding questions (accepted)</title>
-      <link>//localhost:1313/publication/llm_reasoning/</link>
+      <link>/publication/llm_reasoning/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/llm_reasoning/</guid>
+      <guid>/publication/llm_reasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)</title>
-      <link>//localhost:1313/publication/jo-individual_differences_reliable/</link>
+      <link>/publication/jo-individual_differences_reliable/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-individual_differences_reliable/</guid>
+      <guid>/publication/jo-individual_differences_reliable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clip-low increases entropy and clip-high decreases entropy in reinforcement learning of large language models (submitted)</title>
-      <link>//localhost:1313/publication/park_iclr2026/</link>
+      <link>/publication/park_iclr2026/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/park_iclr2026/</guid>
+      <guid>/publication/park_iclr2026/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)</title>
-      <link>//localhost:1313/publication/tag_repetition/</link>
+      <link>/publication/tag_repetition/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/tag_repetition/</guid>
+      <guid>/publication/tag_repetition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remote collection of language samples from 3-year-olds</title>
-      <link>//localhost:1313/publication/jo_sundara_languagesample/</link>
+      <link>/publication/jo_sundara_languagesample/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_sundara_languagesample/</guid>
+      <guid>/publication/jo_sundara_languagesample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual differences in phonology: the realization of stem-final coronal obstruents in Korean [Doctoral dissertation]. University of California, Los Angeles.</title>
-      <link>//localhost:1313/publication/jo-2024_dissertation/</link>
+      <link>/publication/jo-2024_dissertation/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2024_dissertation/</guid>
+      <guid>/publication/jo-2024_dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting language outcomes at 3 years using individual differences in morphological segmentation in infancy</title>
-      <link>//localhost:1313/publication/jo_sundara_breiss/</link>
+      <link>/publication/jo_sundara_breiss/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_sundara_breiss/</guid>
+      <guid>/publication/jo_sundara_breiss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Korean vowel harmony has weak phonotactic support and has limited productivity</title>
-      <link>//localhost:1313/publication/jo-2023_phonology/</link>
+      <link>/publication/jo-2023_phonology/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2023_phonology/</guid>
+      <guid>/publication/jo-2023_phonology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging linguistic features to improve machine learning models for detecting ChatGPT usage on exams</title>
-      <link>//localhost:1313/publication/choi_jo_2024/</link>
+      <link>/publication/choi_jo_2024/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/choi_jo_2024/</guid>
+      <guid>/publication/choi_jo_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses. (* = equal contribution)</title>
-      <link>//localhost:1313/publication/jo_cho_kim_jun_lsa/</link>
+      <link>/publication/jo_cho_kim_jun_lsa/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_cho_kim_jun_lsa/</guid>
+      <guid>/publication/jo_cho_kim_jun_lsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of plagiarism via ChatGPT on domain-specific exams</title>
-      <link>//localhost:1313/publication/jo_choi_2023/</link>
+      <link>/publication/jo_choi_2023/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_choi_2023/</guid>
+      <guid>/publication/jo_choi_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGMORPHON–UniMorph 2023 Shared Task 0, Part 2: Cognitively Plausible Morphophonological Generalization in Korean</title>
-      <link>//localhost:1313/publication/breiss_jo_sigmorphon2023/</link>
+      <link>/publication/breiss_jo_sigmorphon2023/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/breiss_jo_sigmorphon2023/</guid>
+      <guid>/publication/breiss_jo_sigmorphon2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balinese stem phonotactics and the subregularity hypothesis. Unpublished manuscript</title>
-      <link>//localhost:1313/publication/balinese/</link>
+      <link>/publication/balinese/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/balinese/</guid>
+      <guid>/publication/balinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loss of productivity in phonological processes: The case of Korean vowel harmony. Unpublished master&#39;s thesis</title>
-      <link>//localhost:1313/publication/jo-2020_ma/</link>
+      <link>/publication/jo-2020_ma/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2020_ma/</guid>
+      <guid>/publication/jo-2020_ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing the Ko Corpus of Korean Mother–Child Interaction</title>
-      <link>//localhost:1313/publication/ko_et_al_2020/</link>
+      <link>/publication/ko_et_al_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/ko_et_al_2020/</guid>
+      <guid>/publication/ko_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Korean Mothers Attune the Frequency and Acoustic Saliency of Sound Symbolic Words to the Linguistic Maturity of Their Children</title>
-      <link>//localhost:1313/publication/jo_ko_2018/</link>
+      <link>/publication/jo_ko_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo_ko_2018/</guid>
+      <guid>/publication/jo_ko_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning bias of phonological alternation in children learning English</title>
-      <link>//localhost:1313/publication/jo-2017/</link>
+      <link>/publication/jo-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2017/</guid>
+      <guid>/publication/jo-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Native and non-native English speakers&#39; production of voiceless stops: Effects of lexical stress and prosodic domain on VOT. English Studies</title>
-      <link>//localhost:1313/publication/jo-2016/</link>
+      <link>/publication/jo-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2016/</guid>
+      <guid>/publication/jo-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Native and non-native speakers&#39; perception of fluency in L2 speech</title>
-      <link>//localhost:1313/publication/jo-2015/</link>
+      <link>/publication/jo-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/jo-2015/</guid>
+      <guid>/publication/jo-2015/</guid>
       <description></description>
     </item>
     

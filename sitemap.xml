@@ -2,190 +2,190 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/publication-type/0/</loc>
+    <loc>/publication-type/0/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/aacl2025/</loc>
+    <loc>/talk/aacl2025/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/llm_reasoning/</loc>
+    <loc>/publication/llm_reasoning/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/bucld2025/</loc>
+    <loc>/talk/bucld2025/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-individual_differences_reliable/</loc>
+    <loc>/publication/jo-individual_differences_reliable/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/amp2025_jo_et_al/</loc>
+    <loc>/talk/amp2025_jo_et_al/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/amp2025_katsuda_et_al/</loc>
+    <loc>/talk/amp2025_katsuda_et_al/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/park_iclr2026/</loc>
+    <loc>/publication/park_iclr2026/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/pape2025/</loc>
+    <loc>/talk/pape2025/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/tag_repetition/</loc>
+    <loc>/publication/tag_repetition/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo_sundara_languagesample/</loc>
+    <loc>/publication/jo_sundara_languagesample/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-2024_dissertation/</loc>
+    <loc>/publication/jo-2024_dissertation/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/morphology_phonology_circle/</loc>
+    <loc>/talk/morphology_phonology_circle/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo_sundara_breiss/</loc>
+    <loc>/publication/jo_sundara_breiss/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-2023_phonology/</loc>
+    <loc>/publication/jo-2023_phonology/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/chosununivworkshop_2024/</loc>
+    <loc>/talk/chosununivworkshop_2024/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication-type/6/</loc>
+    <loc>/publication-type/6/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/choi_jo_2024/</loc>
+    <loc>/publication/choi_jo_2024/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo_cho_kim_jun_lsa/</loc>
+    <loc>/publication/jo_cho_kim_jun_lsa/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/lsa2024_obs-final/</loc>
+    <loc>/talk/lsa2024_obs-final/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/lsa2024_nrc_rrc/</loc>
+    <loc>/talk/lsa2024_nrc_rrc/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/csueb_slhs508/</loc>
+    <loc>/project/csueb_slhs508/</loc>
     <lastmod>2023-10-20T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2023-10-20T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/amp2023/</loc>
+    <loc>/talk/amp2023/</loc>
     <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/csueb_slhs300/</loc>
+    <loc>/project/csueb_slhs300/</loc>
     <lastmod>2023-10-02T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/fecs2023/</loc>
+    <loc>/talk/fecs2023/</loc>
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo_choi_2023/</loc>
+    <loc>/publication/jo_choi_2023/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/breiss_jo_sigmorphon2023/</loc>
+    <loc>/publication/breiss_jo_sigmorphon2023/</loc>
     <lastmod>2023-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/chosununivtutorial/</loc>
+    <loc>/talk/chosununivtutorial/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/lsa2023/</loc>
+    <loc>/talk/lsa2023/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/amp2022/</loc>
+    <loc>/talk/amp2022/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/sfsu_eng620/</loc>
+    <loc>/project/sfsu_eng620/</loc>
     <lastmod>2022-09-01T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/icis2022/</loc>
+    <loc>/talk/icis2022/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/icis2022_poster/</loc>
+    <loc>/talk/icis2022_poster/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/asian104/</loc>
+    <loc>/project/asian104/</loc>
     <lastmod>2021-09-01T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/ling120a/</loc>
+    <loc>/project/ling120a/</loc>
     <lastmod>2021-04-01T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/lsa2021/</loc>
+    <loc>/talk/lsa2021/</loc>
     <lastmod>2021-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/ling115/</loc>
+    <loc>/project/ling115/</loc>
     <lastmod>2021-01-01T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/balinese/</loc>
+    <loc>/publication/balinese/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/korean1/</loc>
+    <loc>/project/korean1/</loc>
     <lastmod>2020-09-28T13:29:03-08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/amp2020/</loc>
+    <loc>/talk/amp2020/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-2020_ma/</loc>
+    <loc>/publication/jo-2020_ma/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/ling102/</loc>
+    <loc>/project/ling102/</loc>
     <lastmod>2020-01-02T17:43:54-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/ko_et_al_2020/</loc>
+    <loc>/publication/ko_et_al_2020/</loc>
     <lastmod>2021-01-02T14:17:13-08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/asa2019/</loc>
+    <loc>/talk/asa2019/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/ling1/</loc>
+    <loc>/project/ling1/</loc>
     <lastmod>2019-09-23T17:22:45-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/lsa2019/</loc>
+    <loc>/talk/lsa2019/</loc>
     <lastmod>2019-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/hisphoncog/</loc>
+    <loc>/talk/hisphoncog/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo_ko_2018/</loc>
+    <loc>/publication/jo_ko_2018/</loc>
     <lastmod>2020-08-22T17:06:33-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/gwanpojigyo/</loc>
+    <loc>/talk/gwanpojigyo/</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-2017/</loc>
+    <loc>/publication/jo-2017/</loc>
     <lastmod>2020-08-22T17:15:39-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-2016/</loc>
+    <loc>/publication/jo-2016/</loc>
     <lastmod>2020-08-22T17:06:33-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/talk/alak2015/</loc>
+    <loc>/talk/alak2015/</loc>
     <lastmod>2015-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/jo-2015/</loc>
+    <loc>/publication/jo-2015/</loc>
     <lastmod>2020-08-22T17:06:33-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
