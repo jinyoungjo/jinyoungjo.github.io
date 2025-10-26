@@ -5,12 +5,20 @@
     <link>//localhost:1313/publication/</link>
       <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
       <title>Publications</title>
       <link>//localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Large Language Models exhibit limited reasoning ability on coding questions (accepted)</title>
+      <link>//localhost:1313/publication/llm_reasoning/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/llm_reasoning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)</title>
@@ -25,14 +33,6 @@
       <link>//localhost:1313/publication/park_iclr2026/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/park_iclr2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large Language Models exhibit limited reasoning ability on coding questions (submitted)</title>
-      <link>//localhost:1313/publication/llm_reasoning/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/llm_reasoning/</guid>
       <description></description>
     </item>
     

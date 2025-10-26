@@ -5,12 +5,20 @@
     <link>//localhost:1313/talk/</link>
       <atom:link href="//localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/images/icon_hu6439480746502913441.png</url>
       <title>Presentations</title>
       <link>//localhost:1313/talk/</link>
     </image>
+    
+    <item>
+      <title>Jo, J., Engelmann, J., &amp; Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. To be presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025.</title>
+      <link>//localhost:1313/talk/aacl2025/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/aacl2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ko, E.-S., Chai, J., McDonald, M., &amp; Jo, J. (2025). Age-related changes in sound symbolism and word learning in Korean infants. Poster to be presented at the Boston University Conference on Language Development, November 2025.</title>
