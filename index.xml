@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Jo, J., Engelmann, J., &amp; Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. To be presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025.</title>
+      <title>Jo, J., Engelmann, J., &amp; Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. Poster presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025.</title>
       <link>/talk/aacl2025/</link>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
       <guid>/talk/aacl2025/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (submitted)</title>
+      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (in revision)</title>
       <link>/publication/jo-individual_differences_reliable/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/publication/jo-individual_differences_reliable/</guid>
@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)</title>
+      <link>/publication/tag_repetition/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/tag_repetition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Clip-low increases entropy and clip-high decreases entropy in reinforcement learning of large language models (submitted)</title>
       <link>/publication/park_iclr2026/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
@@ -73,14 +81,6 @@
       <link>/talk/pape2025/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/talk/pape2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Word-order adaptation and lexical repetition in speech to young children: With focus on Korean mothers’ production of nouns (in revision)</title>
-      <link>/publication/tag_repetition/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/tag_repetition/</guid>
       <description></description>
     </item>
     
