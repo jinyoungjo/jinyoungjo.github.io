@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2025-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -25,6 +25,9 @@
   </url><url>
     <loc>/talk/bucld2025/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2025-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jo-individual_differences_reliable/</loc>
     <lastmod>2025-09-29T00:00:00+00:00</lastmod>
@@ -70,9 +73,6 @@
   </url><url>
     <loc>/publication/choi_jo_2024/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jo_cho_kim_jun_lsa/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
