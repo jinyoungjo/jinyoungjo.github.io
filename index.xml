@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6439480746502913441.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (resubmitted)</title>
+      <link>/publication/jo-individual_differences_reliable/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/jo-individual_differences_reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses (submitted)</title>
+      <link>/publication/jo_cho_kim_jun_languageandspeech/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_cho_kim_jun_languageandspeech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J., Engelmann, J., &amp; Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. Poster presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025.</title>
@@ -33,14 +49,6 @@
       <link>/talk/bucld2025/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
       <guid>/talk/bucld2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (in revision)</title>
-      <link>/publication/jo-individual_differences_reliable/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/jo-individual_differences_reliable/</guid>
       <description></description>
     </item>
     
@@ -157,7 +165,7 @@
     </item>
     
     <item>
-      <title>Jo, J.*, Cho, J.*, Kim, S. J.*, &amp; Jun, S.-A. (2024). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = co-first authors)</title>
+      <title>Jo, J.*, Cho, J.*, Kim, S. J.*, &amp; Jun, S.-A. (2024). What prosody does when morphosyntax is absent: the case of Korean relative clauses. Talk presented at the Linguistic Society of America 2024 Annual Meeting, Jaunary 2024. (* = equal contribution)</title>
       <link>/talk/lsa2024_nrc_rrc/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/talk/lsa2024_nrc_rrc/</guid>

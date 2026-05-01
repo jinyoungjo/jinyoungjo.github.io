@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6439480746502913441.png</url>
       <title>Publications</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Large language models exhibit limited reasoning ability on coding problems</title>
-      <link>/publication/llm_reasoning/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/llm_reasoning/</guid>
+      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (resubmitted)</title>
+      <link>/publication/jo-individual_differences_reliable/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/jo-individual_differences_reliable/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (in revision)</title>
-      <link>/publication/jo-individual_differences_reliable/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/jo-individual_differences_reliable/</guid>
+      <title>What prosody does when morphosyntax is absent: the case of Korean relative clauses (submitted)</title>
+      <link>/publication/jo_cho_kim_jun_languageandspeech/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/jo_cho_kim_jun_languageandspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large language models exhibit limited reasoning ability on coding problems</title>
+      <link>/publication/llm_reasoning/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/llm_reasoning/</guid>
       <description></description>
     </item>
     
