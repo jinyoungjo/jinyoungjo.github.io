@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyoung Jo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6439480746502913441.png</url>
+      <url>/images/icon_hu10657765640512790848.png</url>
       <title>Jinyoung Jo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Jo, J., Nguyen, K., &amp; Choi, S. (2026). Prosodic differences between child-directed and adult-directed speech in text-to-speech generation. Talk presented at the International Conference on Machine Learning 2026 Workshop on Machine Learning for Audio, Seoul, South Korea.</title>
+      <link>/talk/icml2026/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/icml2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Individual differences in phonology are reliable: the realization of stem-final obstruents in Korean (resubmitted)</title>

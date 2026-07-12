@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 jinyoungjo.com</copyright><lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu6439480746502913441.png</url>
+      <url>/images/icon_hu10657765640512790848.png</url>
       <title>Presentations</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Jo, J., Nguyen, K., &amp; Choi, S. (2026). Prosodic differences between child-directed and adult-directed speech in text-to-speech generation. Talk presented at the International Conference on Machine Learning 2026 Workshop on Machine Learning for Audio, Seoul, South Korea.</title>
+      <link>/talk/icml2026/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/talk/icml2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jo, J., Engelmann, J., &amp; Choi, S. (2025). Large language models exhibit limited reasoning ability on coding problems. Poster presented at the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, December 2025.</title>
