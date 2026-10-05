@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2026-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jo-labphon_2026/</loc>
@@ -22,6 +22,9 @@
   </url><url>
     <loc>/talk/</loc>
     <lastmod>2026-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jo_cho_kim_jun_languageandspeech/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
@@ -52,9 +55,6 @@
   </url><url>
     <loc>/talk/pape2025/</loc>
     <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/jo_sundara_languagesample/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
